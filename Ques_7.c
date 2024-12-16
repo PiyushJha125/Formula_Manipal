@@ -1,3 +1,4 @@
+//Write a program to find the second-largest element in an array using pointers.
 #include <stdio.h>
 
 void findSecondLargest(int *arr, int size) 
