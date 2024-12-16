@@ -1,3 +1,13 @@
+/*Write a C program to print equilateral triangle or Pyramid star pattern series of n rows using. For eg n=5.
+                                                *
+                                               * *
+                                             *  *  *
+                                            *  *  *  *
+                                          *   *  *  *  *
+*/
+                                        
+
+
 #include <stdio.h>
 void main()
 {
