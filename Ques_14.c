@@ -1,3 +1,4 @@
+//Create a recursive function to find the nth term of the Fibonacci series.
 #include <stdio.h>
 
 int fib(int n) 
