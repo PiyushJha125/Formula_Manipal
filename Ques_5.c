@@ -1,3 +1,4 @@
+//Create a program to remove all duplicates from an array of integers.
 #include <stdio.h>
 
 void main() 
