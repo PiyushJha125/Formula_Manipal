@@ -1,3 +1,4 @@
+//Write a program to determine if the sum of three user-input integers is even or odd as well as if the number is prime or composite.
 #include <stdio.h>
 void isPrime(int s) 
 {
