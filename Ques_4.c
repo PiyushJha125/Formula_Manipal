@@ -1,3 +1,4 @@
+//Create a program to simulate a simple login system with 3 attempts to enter the correct password.
 #include <stdio.h>
 #include <string.h>
 
