@@ -1,3 +1,4 @@
+//Develop a program to swap every two adjacent elements in an array using pointers. 
 #include <stdio.h>
 
 void swap(int *arr, int size) 
