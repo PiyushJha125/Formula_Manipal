@@ -1,3 +1,4 @@
+//Take each element of the 4x4 matrix from the user and print it, then add each element from the 4x4 matrix and print the sum, print the sum of both the diagonals
 #include <stdio.h>
 
 void main() 
