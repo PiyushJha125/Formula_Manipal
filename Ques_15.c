@@ -1,3 +1,4 @@
+//Implement a recursive function to compress a string by replacing consecutive duplicate characters with their count (e.g., aaabbc becomes a3b2c1). 
 #include <stdio.h>
 #include <string.h>
 
