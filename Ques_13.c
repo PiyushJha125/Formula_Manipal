@@ -1,3 +1,4 @@
+//Write a program to read a file and count the number of characters, words, and lines in a file.
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
