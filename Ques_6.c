@@ -1,3 +1,4 @@
+//Implement a program count the number of vowels and consonants in the given string as well as to scramble the characters of a string randomly.
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
